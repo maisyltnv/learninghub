@@ -21,6 +21,7 @@ const categories = [
   "Photography",
   "Music",
   "Language",
+  "Others",
 ]
 
 const levels = ["Beginner", "Intermediate", "Advanced"]
